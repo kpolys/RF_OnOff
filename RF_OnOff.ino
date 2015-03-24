@@ -1,5 +1,6 @@
+//Author: WebS1821 - Konrad Polys
 
-#include <RCSwitch.h>
+#include <RCSwitch.h> // Lib from: https://rc-switch.googlecode.com/files/RCSwitch.zip
 #define ON 5891 // on 5314307
 #define OFF 5900 // off 5314316
 #define INR 0 // pin 2
