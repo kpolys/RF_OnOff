@@ -1,4 +1,4 @@
-//Author: WebS1821 - Konrad Polys
+//Author: Konrad Polys
 
 #include <RCSwitch.h> // Lib from: https://rc-switch.googlecode.com/files/RCSwitch.zip
 #define ON 5891 // on 5314307
